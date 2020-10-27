@@ -17,3 +17,5 @@ teste
 test
 test123
 Teste123*
+ftpuser
+userftp
